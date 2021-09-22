@@ -1,0 +1,7 @@
+파이썬 콘솔 명령어
+1. ui 파일을 py로 변환
+pyuic5 -x naver.ui -o naver.py
+
+2. exe파일 생성
+pyinstaller -w xxx.py
+
